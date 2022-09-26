@@ -1,2 +1,2 @@
-# OpenAI_Whisper_ASR
+# 🗣 Automatic Speech Recognition using OpenAI's Whisper ✨ [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A minimalistic automatic speech recognition streamlit based webapp powered by OpenAI's Whisper "State of the Art" models
